@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  display: flex;
+  background-color: grey;
+  justify-content: space-between;
+  align-items: center;
+  top: 0;
+  left: 0;
+  position: fixed;
+  padding: 10px 0px;
+  width: 100%;
+  z-index: 100;
+
+}
+.main a{
+  color: rgb(0, 0, 0);
+}
